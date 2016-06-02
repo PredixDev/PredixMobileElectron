@@ -6,14 +6,14 @@ The Predix Mobile SDK is a comprehensive suite of tools, frameworks and source e
 * [Creating a Mobile Hello World Web App] (https://www.predix.io/docs#DrBWuHkl) 
 
 ##pm CLI
-The [pm CLI](https://github.com/PredixDev/predix-mobile-cli) is a Command Line Interface that facilitates the management of Predix mobile users, roles, Predix mobile applications and their constituent web app dependencies. You must install and configure the Cloud Foundry cf CLI and uaac CLI before installing the pm CLI.
+The [`pm` CLI](https://github.com/PredixDev/predix-mobile-cli) is a Command Line Interface that facilitates the management of Predix mobile users, roles, Predix mobile applications and their constituent web app dependencies. You must install and configure the Cloud Foundry `cf` CLI and `uaac` CLI before installing the `pm` CLI.
 
 ##Predix Mobile App Container
-The Predix Mobile Reference App on Electron includes the Predix Mobile App Container for Windows, a platform-specific environment in which Predix mobile applications are run. It contains an implementation of the Predix Mobile Client Core Services framework.  See <link to download file>.
+The Predix Mobile Reference App on Electron includes the Predix Mobile App Container for Windows, a platform-specific environment in which Predix mobile applications are run. It contains an implementation of the [Predix Mobile Client Core Services framework](https://www.predix.io/docs/?r=165165#tMguUCx).  
 
 ## Additional Information
 
-For additional technical documentation see the [Wiki](../../wiki) in this repo.
+For additional technical documentation see the [Predix Mobile SDK wiki](https://github.com/PredixDev/PredixMobileSDK).
 
 ## Examples
 1. WEB-APPs
