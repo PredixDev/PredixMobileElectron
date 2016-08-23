@@ -13,7 +13,7 @@ The Predix Mobile Reference App on Electron includes the Predix Mobile App Conta
 
 ## Additional Information
 
-For additional technical documentation see the [Predix Mobile SDK wiki](https://github.com/PredixDev/PredixMobileSDK).
+For additional technical documentation see the [Predix Mobile SDK ReadMe file](https://github.com/PredixDev/PredixMobileSDK) and the [Predix Mobile SDK wiki](https://github.com/PredixDev/PredixMobileSDK/wiki).
 
 ## Examples
 1. WEB-APPs
