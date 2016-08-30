@@ -1,4 +1,4 @@
-# PredixMobileElectron v1.1.198
+# PredixMobileElectron v0.1.7.198
 
 The Predix Mobile SDK is a comprehensive suite of tools, frameworks and source examples that will enable and educate you on building mobile applications for the Industrial Internet of Things (IIoT). To get started, follow this documentation:
 * [Get Started with the Mobile Service and Mobile SDK] (https://www.predix.io/docs#rae4EfJ6) 
